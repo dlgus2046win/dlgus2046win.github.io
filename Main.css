@@ -1,0 +1,216 @@
+html {
+    zoom: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.frame {
+    margin: 0 auto;
+}
+
+header {
+    height: 505px;
+    color: white;
+    font-family: 'Hind', sans-serif;
+}
+
+.nav-header {
+    position: relative;
+    width: 1920px;
+    height: 130px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 30px 30px -22px darkgrey;
+    z-index: 2;
+}
+
+.nav-logo {
+    float: left;
+    margin: 46px 250px 46px 110px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.top-nav li {
+    margin-right: 50px;
+}
+
+.top-nav1 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 40px;
+}
+
+.introduction {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav2 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.guide {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav3 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.room {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav4 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.reservation {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav5 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.location {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    position: relative;
+    width: 1920px;
+    margin-top: -405px;
+    z-index: 1;
+}
+
+.slider-container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.slider {
+    display: flex;
+    animation: slide 12s infinite; /* 각 이미지는 5초 동안 화면에 남습니다 (5초 * 3 이미지 = 15초) */
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+    }
+    20% {
+        transform: translateX(0);
+    }
+    33.33% {
+        transform: translateX(-100%);
+    }
+    53.33% {
+        transform: translateX(-100%);
+    }
+    66.66% {
+        transform: translateX(-200%);
+    }
+    86.66% {
+        transform: translateX(-200%);
+    }
+    100% {
+        transform: translateX(-300%);
+    }
+}
+
+.foot {
+    width: 1920px;
+    height: 125px;
+    overflow: hidden;
+    background-color: #e4e4e4;
+}
+
+.foot-nav {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 46px 380px;
+}
+
+.foot-nav2 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 0px 350px;
+}
+
+.foot-nav3 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 0px 350px;
+}
+
+.foot-nav4 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -1190px;
+}
+
+.foot-nav5 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -725px;
+}
+
+.foot-nav6 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -207px;
+}

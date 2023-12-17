@@ -1,0 +1,223 @@
+html {
+    zoom: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.frame {
+    margin: 0 auto;
+}
+
+header {
+    height: 505px;
+    color: white;
+    font-family: 'Hind', sans-serif;
+}
+
+.nav-header {
+    position: relative;
+    width: 1920px;
+    height: 130px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 30px 30px -22px darkgrey;
+    z-index: 2;
+}
+
+.nav-logo {
+    float: left;
+    margin: 46px 250px 46px 110px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.top-nav li {
+    margin-right: 50px;
+}
+
+.top-nav1 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: #0C84C6;
+    margin: 46px 0px 46px 40px;
+}
+
+.top-nav2 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.guide {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav3 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.room {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav4 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.reservation {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav5 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.location {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    position: relative;
+    width: 1920px;
+    margin-top: -405px;
+    z-index: 1;
+}
+
+.main-nav1 {
+    float: left;
+    font-size: 50px;
+    font-weight: 300;
+    color: black;
+    margin: 200px 0px 0px 910px;
+}
+
+.main-nav2 {
+    float: left;
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+    margin: 455px 0px 0px 710px;
+}
+
+.main-nav3 {
+    float: left;
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+    margin: 515px 0px 0px -505px;
+}
+
+.main-nav4 {
+    float: left;
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+    margin: 80px 0px 0px 630px;
+}
+
+.feed1 {
+    float: left;
+    margin: -210px 0px 0px 565px;
+}
+
+.feed2 {
+    float: left;
+    margin: 30px 0px 0px 565px;
+}
+
+.main-img {
+    float: left;
+    margin: 370px 0px 0px 0px;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.foot {
+    width: 1920px;
+    height: 125px;
+    overflow: hidden;
+    background-color: #e4e4e4;
+    position: absolute;
+    margin-top: 1600px;
+}
+
+.foot-nav {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 46px 380px;
+}
+
+.foot-nav2 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 0px 350px;
+}
+
+.foot-nav3 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 0px 350px;
+}
+
+.foot-nav4 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -1190px;
+}
+
+.foot-nav5 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -725px;
+}
+
+.foot-nav6 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -207px;
+}

@@ -1,0 +1,258 @@
+html {
+    zoom: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.frame {
+    margin: 0 auto;
+}
+
+header {
+    height: 505px;
+    color: white;
+    font-family: 'Hind', sans-serif;
+}
+
+.nav-header {
+    position: relative;
+    width: 1920px;
+    height: 130px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 30px 30px -22px darkgrey;
+    z-index: 2;
+}
+
+.nav-logo {
+    float: left;
+    margin: 46px 250px 46px 110px;
+}
+
+.logo {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.top-nav li {
+    margin-right: 50px;
+}
+
+.top-nav1 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 40px;
+}
+
+.introduction {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav2 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.guide {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav3 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: #0C84C6;
+    margin: 46px 0px 46px 100px;
+}
+
+.top-nav4 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.reservation {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav5 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.location {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    width: 1920px;
+}
+
+.main-nav1 {
+    float: left;
+    font-size: 30px;
+    font-weight: 300;
+    color: #0C84C6;
+    margin: -230px 0px 0px 690px;
+}
+
+.main-nav2 {
+    float: left;
+    font-size: 30px;
+    font-weight: 300;
+    color: black;
+    margin: -230px 0px 0px 1120px;
+}
+
+.roomB {
+    text-decoration: none;
+    color: black;
+}
+
+.bar {
+    float: left;
+    margin: -240px 950px 0px 950px;
+}
+
+.plan {
+    float: left;
+    margin: -100px 0px 0px 380px;
+}
+
+.plan2 {
+    float: left;
+    margin: 100px 0px 0px -10px;
+}
+
+.plan3 {
+    float: left;
+    margin: 510px 0px 0px -190px;
+}
+
+.feed1 {
+    float: left;
+    margin: 534px 500px 0px 306px;
+}
+
+.feed2 {
+    float: left;
+    margin: 239px 0px 0px -480px;
+}
+
+.feed3 {
+    float: left;
+    margin: 150px 100px 0px 306px;
+}
+
+.feed4 {
+    float: left;
+    margin: 330px 0px 0px -80px;
+}
+
+.feed5 {
+    float: left;
+    margin: 150px 306px 0px 306px;
+}
+
+.feed6 {
+    float: left;
+    margin: 400px 100px 0px 306px;
+}
+
+.feed7 {
+    float: left;
+    margin: 150px 0px 0px -80px;
+}
+
+.feed8 {
+    float: left;
+    margin: 150px 300px 0px 306px;
+}
+
+.feed9 {
+    float: left;
+    margin: 400px 0px 330px -280px;
+}
+
+.foot {
+    width: 1920px;
+    height: 125px;
+    overflow: hidden;
+    background-color: #e4e4e4;
+}
+
+.foot-nav {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 46px 380px;
+}
+
+.foot-nav2 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 0px 350px;
+}
+
+.foot-nav3 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 0px 350px;
+}
+
+.foot-nav4 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -1190px;
+}
+
+.foot-nav5 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -725px;
+}
+
+.foot-nav6 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -207px;
+}

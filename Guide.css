@@ -1,0 +1,355 @@
+html {
+    zoom: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.frame {
+    margin: 0 auto;
+}
+
+header {
+    height: 505px;
+    color: white;
+    font-family: 'Hind', sans-serif;
+}
+
+.nav-header {
+    position: relative;
+    width: 1920px;
+    height: 130px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 30px 30px -22px darkgrey;
+    z-index: 2;
+}
+
+.nav-logo {
+    float: left;
+    margin: 46px 250px 46px 110px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.top-nav li {
+    margin-right: 50px;
+}
+
+.top-nav1 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 40px;
+}
+
+.introduction {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav2 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: #0C84C6;
+    margin: 46px 0px 46px 100px;
+}
+
+.top-nav3 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.room {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav4 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.reservation {
+    text-decoration: none;
+    color: black;
+}
+
+.top-nav5 {
+    float: left;
+    font-size: 26px;
+    font-weight: 300;
+    color: black;
+    margin: 46px 0px 46px 100px;
+}
+
+.location {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    position: relative;
+    width: 1920px;
+    margin-top: -405px;
+    z-index: 1;
+}
+
+.main-nav1 {
+    float: left;
+    font-size: 50px;
+    font-weight: 300;
+    color: black;
+    margin: 200px 0px 0px 910px;
+}
+
+.main-nav2 {
+    float: left;
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+    margin: 120px 0px 0px 876px;
+}
+
+.main-nav3 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 50px 0px 0px 650px;
+}
+
+.main-nav4 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 650px;
+}
+
+.main-nav5 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 650px;
+}
+
+.main-nav6 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 650px;
+}
+
+.main-nav7 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 650px;
+}
+
+.main-nav8 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 650px;
+}
+
+.main-nav9 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 48px 0px 0px -235px;
+}
+
+.main-nav10 {
+    float: left;
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+    margin: 100px 0px 0px 876px;
+}
+
+.main-nav11 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 50px 0px 0px 630px;
+}
+
+.main-nav12 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 630px;
+}
+
+.main-nav13 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 630px;
+}
+
+.main-nav14 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 630px;
+}
+
+.main-nav15 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 630px;
+}
+
+.main-nav16 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 630px;
+}
+
+.main-nav17 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 630px;
+}
+
+.main-nav18 {
+    float: left;
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+    margin: 100px 0px 0px 910px;
+}
+
+.main-nav19 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 50px 0px 0px 630px;
+}
+
+.main-nav20 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 630px;
+}
+
+.main-nav21 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 630px;
+}
+
+.main-nav22 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 0px 630px;
+}
+
+.main-nav23 {
+    float: left;
+    font-size: 21px;
+    font-weight: 300;
+    color: black;
+    margin: 10px 0px 200px 630px;
+}
+
+.foot {
+    width: 1920px;
+    height: 125px;
+    overflow: hidden;
+    background-color: #e4e4e4;
+}
+
+.foot-nav {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 46px 380px;
+}
+
+.foot-nav2 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 0px 350px;
+}
+
+.foot-nav3 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 35px 0px 0px 350px;
+}
+
+.foot-nav4 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -1190px;
+}
+
+.foot-nav5 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -725px;
+}
+
+.foot-nav6 {
+    float: left;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    margin: 71px 0px 0px -207px;
+}
